@@ -1,0 +1,51 @@
+body {
+background-image: linear-gradient(#43cea2, #185a9d);
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-family: "Brush Script MT";
+    text-decoration: underline;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    border-radius: 25%;
+    border: black 5px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2,
+h3 {
+    text-align: center;
+    font-family: "Brush Script MT";
+    font-size: 30px;
+}
+
+p,
+ul,
+ol,
+a {
+    font-family: "Bradley Hand";
+}
+
+p {
+
+}
+
+footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  text-align: center;
+}
+
+a {
+    color: #43cea2;
+}
